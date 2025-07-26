@@ -1,0 +1,5 @@
+{
+  "#hero-logo": ["echoShell", "fadePath"],
+  ".interactive-button": ["pulseForm", "hoverGlow"],
+  "#visual-grid": ["glassAxis", "signalCore"]
+}

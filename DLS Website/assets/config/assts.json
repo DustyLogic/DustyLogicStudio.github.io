@@ -1,0 +1,9 @@
+{
+  "heroIdentity": {
+    "src": "../images/NeonBrainLogotrnsp.png",
+    "type": "img",
+    "class": "identity-glow",
+    "alt": "Dusty Logic Logo",
+    "zone": "logoShell"
+  }
+}
