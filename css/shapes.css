@@ -1,0 +1,11 @@
+.btn-circle {
+  border-radius: 50%;
+  padding: 0.75em;
+}
+.btn-slanted {
+  transform: skewX(-10deg);
+}
+.btn-frame {
+  border: 2px solid var(--accent);
+  background: transparent;
+}
